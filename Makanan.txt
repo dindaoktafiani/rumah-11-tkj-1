@@ -1,0 +1,7 @@
+Makanan:ayam geprek
+       :seblak
+       ;mie ayam
+       :nasi padang
+       :bubur ayam
+       :mie ayam geprek
+       :ayam katsu
